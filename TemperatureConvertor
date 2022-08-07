@@ -1,0 +1,9 @@
+
+public class TemperatureConvertor {
+    public static void main(String[] args) {
+        double fahr=137.0;
+        double cel=(fahr*9.0/5.0)+32;
+        System.out.println(cel);
+        
+    }
+}
